@@ -1,8 +1,6 @@
 #OSINT investigation (tools) 
 
-This is Personal Documentation of [OSINT Team](/OSINT_Team_Links/README.md)
-
- [the book of secret-knowledge](https://github.com/readloud/OSINT/wiki)
+This is  [the book of secret-knowledge](https://github.com/readloud/OSINT/wiki) Personal Documentation of [OSINT Team](/OSINT_Team_Links/README.md)
  
 You can also <a href="https://github.com/readloud/OSINT-Tools/fork">fork</a> or take a look at the <a href="https://github.com/git-guides/install-git">Installation guide</a> for each repository.
 
